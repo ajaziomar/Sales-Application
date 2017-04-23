@@ -1,6 +1,6 @@
 
-#ifndef ICT_POSIO_H__
-#define ICT_POSIO_H__
+#ifndef SICT_POSIO_H__
+#define SICT_POSIO_H__
 // includes go here
 #include <iostream>
 #include <fstream>
