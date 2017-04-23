@@ -7,7 +7,7 @@
 #include "POS.h"
 
   // ict namespace
-namespace ict {
+namespace sict {
    // Date defined Error values
    #define NO_ERROR 0 // no errors
    #define CIN_FAILED 1 //istream failed
