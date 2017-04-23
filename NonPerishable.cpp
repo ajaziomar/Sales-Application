@@ -8,7 +8,7 @@
 
 
 using namespace std;
-namespace ict {
+namespace sict {
     
     
     bool NonPerishable:: ok() const{
