@@ -5,8 +5,7 @@
 #include <iostream>
 #include <fstream>
 
-// ict namespace
-namespace ict {
+namespace sict {
     
 
 
