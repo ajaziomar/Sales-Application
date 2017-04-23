@@ -7,7 +7,7 @@
 #include "Date.h"
 #include "PosIO.h"
 
-namespace ict {
+namespace sict {
     class Perishable : public NonPerishable{
         Error m_err;
         Date m_expiry;
