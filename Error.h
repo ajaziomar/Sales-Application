@@ -1,12 +1,9 @@
-
-// compilation safegaurds
-
 #ifndef Error_h
 #define Error_h
 
 #include <iostream>
 
- namespace ict {
+ namespace sict {
     class Error {
         char* m_message;
     public:
