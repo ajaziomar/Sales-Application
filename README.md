@@ -1,1 +1,1 @@
-# Sales-Application
+# Sales Application
