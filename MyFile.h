@@ -1,15 +1,7 @@
-// Final Project Milestone 2
-// Tester program
-// File	MyFile.h
-// Version 1.0
-// Date	3/15/2017
-// Author	Fardad Soleimanloo
-
-/////////////////////////////////////////////////////////////////
 #ifndef ICT_MYFILE_H__
 #define ICT_MYFILE_H__
 #include "PosIO.h"
-namespace ict{
+namespace sict{
     class MyFile : public PosIO {
         char _fname[256];
         char _text[10000];
