@@ -11,7 +11,7 @@
 
 
 
-namespace ict {
+namespace sict {
     
     class NonPerishable : public Item{
         
