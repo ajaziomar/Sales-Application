@@ -1,5 +1,5 @@
-#ifndef ICT_PERISHABLE_H__
-#define ICT_PERISHABLE_H__
+#ifndef SICT_PERISHABLE_H__
+#define SICT_PERISHABLE_H__
 
 #include <iostream>
 
