@@ -1,5 +1,5 @@
-#ifndef ICT_MYFILE_H__
-#define ICT_MYFILE_H__
+#ifndef SICT_MYFILE_H__
+#define SICT_MYFILE_H__
 #include "PosIO.h"
 namespace sict{
     class MyFile : public PosIO {
