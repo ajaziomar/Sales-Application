@@ -5,7 +5,7 @@
 #include "Error.h"
 
  
-namespace ict{
+namespace sict{
     
     Error::Error(){
         
