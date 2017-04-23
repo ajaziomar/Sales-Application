@@ -10,7 +10,7 @@
 
 
 using namespace std;
-namespace ict{
+namespace sict{
     // class Item implementaion
     Item::Item(){
         
