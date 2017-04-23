@@ -7,7 +7,7 @@ using namespace std;
 #include "POS.h"
 
 
-namespace ict{
+namespace sict{
     
   void Date::set(){
     time_t t = time(NULL);
