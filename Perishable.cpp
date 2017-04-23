@@ -6,7 +6,7 @@
 #include "Perishable.h"
 
 using namespace std;
-namespace ict {
+namespace sict {
     
     Perishable::Perishable(){
         m_expiry.dateOnly(true);
