@@ -1,19 +1,10 @@
-// Final Project Milestone 2
-// Tester program
-// File	MyFile.cpp
-// Version 1.0
-// Date	3/15/2017
-// Author	Fardad Soleimanloo
-//
-
-/////////////////////////////////////////////////////////////////
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <fstream>
 #include <cstring>
 #include "MyFile.h"
 using namespace std;
-namespace ict{
+namespace sict{
     
     MyFile::MyFile(const char* fname){
         _text[0] = char(0);
