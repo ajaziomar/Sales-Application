@@ -5,7 +5,7 @@
 #include <fstream>
 #include "PosApp.h"
 using namespace std;
-namespace ict{
+namespace sict{
     // constructor
     
     PosApp::PosApp(const char* filename, const char* billfname) {
